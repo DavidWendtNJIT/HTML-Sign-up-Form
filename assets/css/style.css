@@ -37,8 +37,13 @@ h1 {
     text-align: center;
 }
 
+h3 {
+    margin-bottom: 10px;
+}
+
 h5 {
     color: #777;
+    margin-top: 0px;
 }
 
 input,
@@ -72,4 +77,8 @@ label {
 
 .required-field {
     color: red;
+}
+
+#amen {
+    margin-bottom: 30px;
 }
